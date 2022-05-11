@@ -1,2 +1,2 @@
 # lab-agile-planning
- Repo for lab tutorial for agile planning 
+Lab tutorial repo for agile planning 
